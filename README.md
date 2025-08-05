@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Lea Parker  
 ### Frontend Developer
 
-Over the past year, I’ve been learning to code through **Frontend Simplified** after transitioning from a career in healthcare.  
-I started with the fundamentals — **HTML** and **CSS** — but have especially enjoyed building projects with **React** as I’ve grown my skills.
+Over the past year, I’ve been learning to code through **Frontend Simplified** after transitioning from a career in healthcare. I started with the fundamentals — **HTML** and **CSS** — but have especially enjoyed building projects with **React** as I’ve grown my skills.
 
 ---
 
