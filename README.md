@@ -8,7 +8,6 @@ Over the past year, I’ve been learning to code through **Frontend Simplified**
 - 🌍 I'm based in **Boise, Idaho**
 - 🖥️ See my portfolio: [GitHub Portfolio](https://github.com/Lea7991/MyPorfolio.git)
 - ✉️ Contact me: [leawork25@gmail.com](mailto:leawork25@gmail.com)
-- 🚀 Currently working on: [Skinstrinsic Project](https://lea-internship-skinstrinsic.vercel.app/)
 - ⚡ Fun fact: I enjoy outdoor activities like hiking and fishing
 
 ---
