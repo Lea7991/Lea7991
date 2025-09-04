@@ -8,7 +8,7 @@ Over the past year, I’ve been learning to code through **Frontend Simplified**
 - 🌍 I'm based in **Boise, Idaho**
 - 🖥️ See my portfolio: [GitHub Portfolio](https://github.com/Lea7991/MyPorfolio.git)
 - ✉️ Contact me: [leawork25@gmail.com](mailto:leawork25@gmail.com)
-- 🚀  I'm currently working on [https://you-tube-clone-lilac-theta.vercel.app/](http://https://vercel.com/lea-parkers-projects/you-tube-clone/GNJvM3hAwrYRXoqWzHzfmje6AZ54)
+- 🚀  I'm currently working on [https://you-tube-clone-lilac-theta.vercel.app/](http://vercel.com/lea-parkers-projects/you-tube-clone/GNJvM3hAwrYRXoqWzHzfmje6AZ54)
 - 🧠  I'm currently learning advanced JavaScript technologies.
 - ⚡ Fun fact: I enjoy outdoor activities like hiking and fishing
 
